@@ -14,5 +14,7 @@ pd.downloadPosts();
 ## Variables
 
 **somePageId** - id of the page you want to parse.
+
 **quotesFile** - full filename in string where text content of the page will be saved.
+
 **picturesFile** - full filename in string where links to the images will be saved.
